@@ -1,12 +1,9 @@
-# IMPORTANT: Set this to false.
-demo: true
-
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a designer/developer based in Vancouver, Canada, and I was most recently a product designer at a Tokyo-based startup called Actcat and redesigned SideCI (sideci.com)."
+photo: "https://avatars0.githubusercontent.com/u/2003265"
+name: "김지태"
+copy: "프로그래밍을 좋아하는 주니어 개발자입니다.<br />새로운 것을 배우는 것과 그것을 다른 사람과 나누는 것을 좋아하며, 좀 더 나은 코드를 작성할 수 있도록 노력합니다."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
